@@ -1,4 +1,5 @@
 # AttendVideoPlayer
+not completely updated code 2020.04.09 version
 >     Attendence Video Player for FPGA class
 Because of the corona virus, all classes are being replaced remotely.
 So, I developed a video player program to check attendance remotely.
